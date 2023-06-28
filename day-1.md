@@ -1,3 +1,3 @@
-# Day 1
-## Started with Data Science
-Today im starting with data science
+# Starting again...
+## this time for more than 30 days.
+date- 28-06-2023
