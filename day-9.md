@@ -8,3 +8,6 @@ Didn't code it myself...but understood how classes and objects work.
 Day 16 Completed.
 
 ### Starting with Day 17 of the course.
+learnt how to create classes
+constructors and attributes
+learnt about __init__ keyword
