@@ -11,3 +11,5 @@ Day 16 Completed.
 learnt how to create classes
 constructors and attributes
 learnt about __init__ keyword
+Created a quiz-game project using classes and objects.
+Completed Day 17 of the course.
